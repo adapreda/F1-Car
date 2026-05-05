@@ -10,3 +10,10 @@ Models - the project includes multiple original designs published on 3D platform
 - https://www.printables.com/model/654451-f1-2023-model-kit-card/files
 - https://www.youtube.com/shorts/RLxqbxa7q1Y
 - https://makerworld.com/en/models/2193423-audi-audi-2026-f1-race-car-r26-concept-livery-asse#profileId-2381847
+
+Main Components - the model is built from several key parts that reflect the structure of a real Formula 1 car:
+- Chassis – the central structure that supports all components
+- Front Wing – designed to simulate aerodynamic control
+- Rear Wing – includes the DRS mechanism
+- 4 Wheels – fully functional and able to rotate
+- Halo – safety structure around the cockpit
