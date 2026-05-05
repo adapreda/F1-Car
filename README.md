@@ -23,6 +23,6 @@ Technical Details:
 - Material: PETG
   
 Design Approach:
--The model is split into multiple parts
--Each part is designed individually
--All components are combined in a final assembly
+- The model is split into multiple parts
+- Each part is designed individually
+- All components are combined in a final assembly
