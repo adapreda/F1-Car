@@ -17,3 +17,12 @@ Main Components - the model is built from several key parts that reflect the str
 - Rear Wing – includes the DRS mechanism
 - 4 Wheels – fully functional and able to rotate
 - Halo – safety structure around the cockpit
+
+Technical Details:
+- CAD Software: Autodesk Fusion 360
+- Material: PETG
+  
+Design Approach:
+-The model is split into multiple parts
+-Each part is designed individually
+-All components are combined in a final assembly
