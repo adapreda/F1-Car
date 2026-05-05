@@ -6,3 +6,7 @@ Key features:
 - Suspension Systems -> A simplified but functional suspension system is integrated into the model. THis allows vertical wheel movement.
 - DRS (Drag Reduction System) -> The model features an animated rear wing flap simulating the DRS mechanism. This opens and closes to reduce aerodynamic drag.
 
+Models - the project includes multiple original designs published on 3D platforms and media:
+- https://www.printables.com/model/654451-f1-2023-model-kit-card/files
+- https://www.youtube.com/shorts/RLxqbxa7q1Y
+- https://makerworld.com/en/models/2193423-audi-audi-2026-f1-race-car-r26-concept-livery-asse#profileId-2381847
