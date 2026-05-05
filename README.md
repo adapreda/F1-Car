@@ -1,7 +1,7 @@
 # F1-Car 3D Model Project
 This project represents a detailed 3D model of a Formula 1 car, designed with a focus on both visual realism and mechanical functionality. Unlike a static model, this design incorporates moving components inspired by real-world F1 engineering.
 
-![F1 Car](photos/red%20bull%20f1%20car.avif)
+<img src="photos/red-bull-f1-car.png" width="40%">
 
 Key features:
 - Rolling Wheels -> The car includes fully functional wheels that can rotate smoothly.
